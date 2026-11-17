@@ -17,5 +17,6 @@
 <li><a href="cats.html">Задание 8.</a> Котэ
 </li>
 <li><a href="img.html">Задание 9.</a> Музыканты
+<li><a href="media.html">Задание 10.</a> Мультимедия
 </li>
 </ul>
