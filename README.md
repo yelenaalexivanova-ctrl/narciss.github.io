@@ -13,4 +13,9 @@
     <li><a href="media.htm">Задание 11.</a> Медиа</li>
     <li><a href="baikal.htm">Задание 12.</a> Байкал</li>
     <li><a href="valaam.htm">Задание 13.</a> Валаам</li>
+    <li><a href="Figma01.html">Задание 14.</a> Основы Figma</li>
+    <li><a href="Figma02.html">Задание 15.</a> Сетка</li>
+    <li><a href="Figma03.html">Задание 16.</a> Перо и маркер</li>
+    <li><a href="Figma04.html">Задание 17.</a> Типографика</li>
+    <li><a href="Figma05.html">Задание 18.</a> Фреймы</li>
 </ul>
