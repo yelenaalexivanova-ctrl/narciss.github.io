@@ -1,0 +1,55 @@
+* { 
+    margin: 0px; 
+    padding: 0px; 
+}
+
+
+#header {
+    height: 80px;
+    background-image: url('images/header.jpg');
+    background-repeat: no-repeat;
+}
+
+#header h1 {
+    padding-top: 20px;
+    padding-left: 150px;
+}
+
+
+#pogoda {
+    width: 150px;
+    margin-left: 10px;
+    float: left;
+}
+
+#photo {
+    width: 220px;
+    margin-left: 10px;
+    float: right;
+}
+
+
+#content {
+    margin-left: 150px;
+    margin-right: 220px;
+}
+
+
+#content p {
+    padding: 5px;
+    text-indent: 20px;
+}
+
+#content p.source {
+    text-align: right;
+    text-indent: 0px;
+}
+
+
+#footer {
+    background-color: #CCCCCC;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    text-align: center;
+    clear: both;
+}

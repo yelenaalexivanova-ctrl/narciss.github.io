@@ -1,0 +1,122 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+/* Выравнивание заголовков на одном уровне с левым краем блока текста */
+p {
+    text-align: left;
+    font-weight: bold;
+    font-size: 16px;
+    max-width: 800px;
+    margin: 20px auto 10px auto;
+}
+
+table {
+    margin: 10px auto;
+}
+
+table.sport, table.herbarium-table {
+    border-collapse: collapse;
+    border: 1px solid #777777;
+}
+
+table.sport th, table.sport td {
+    border: 1px solid #777777;
+}
+
+table.sport td, table.sport th {
+    text-align: center;
+}
+
+table.sport td.left {
+    text-align: left;
+}
+
+table.sport th, table.sport td {
+    padding: 2px 5px;
+}
+
+table.herbarium-table td {
+    border: 1px solid #777777;
+}
+
+.header {
+    background-image: url('images01/back.jpg');
+    color: #ffffff;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+}
+
+.picture {
+    text-align: center;
+    background-image: url('images01/paper.jpg');
+    padding: 10px;
+    width: 120px;
+}
+
+.picture img {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+.note {
+    font-family: "Arial", "Helvetica", sans-serif;
+    color: #800000;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+table.layout-table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 800px;
+}
+
+.caesar-photo {
+    vertical-align: top;
+    padding-right: 15px;
+    width: 100px;
+}
+
+.caesar-photo img {
+    width: 100px;
+}
+
+.caesar-text {
+    vertical-align: top;
+    padding-right: 15px;
+    text-align: justify; 
+}
+
+.caesar-text h3 {
+    margin-top: 0;
+    text-align: center;
+    color: #003399;
+}
+
+.ad {
+    border: 1px solid #CCCCCC;
+    background-color: rgb(230, 230, 255);
+    text-align: center;
+    vertical-align: top;
+    padding: 10px;
+    width: 130px;
+}
+
+.ad img {
+    width: 90px;
+    margin-bottom: 5px;
+}
+
+.ad a {
+    color: #0000EE;
+    font-size: 12px;
+    text-decoration: underline;
+}

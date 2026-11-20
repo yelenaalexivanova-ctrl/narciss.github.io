@@ -1,0 +1,113 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    line-height: 1.4;
+    margin: 20px;
+    color: #000;
+    font-size: 14px;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 28px;
+    font-family: Arial, sans-serif;
+}
+
+#valaam-logo {
+    border: none;
+    vertical-align: middle;
+}
+
+p {
+    text-align: justify;
+    margin: 0 0 14px 0;
+}
+
+#toggle-trigger {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.caption {
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    font-size: 11px;
+    margin: 0;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.floating-box-1 {
+    float: left;
+    margin: 0 15px 10px 0;
+    width: 220px;
+}
+
+.floating-box-1 img {
+    width: 100%;
+    height: auto;
+    border: 1px solid #000;
+}
+
+#hidden-text-block {
+    background-color: #EEEEFF;
+    border: 1px solid blue;
+    padding: 15px 10px;
+    margin: 15px 0;
+    overflow: hidden;
+}
+
+.floating-box-2 {
+    float: right;
+    margin: 0 0 10px 15px;
+    width: 180px;
+}
+
+.floating-box-2 img {
+    width: 100%;
+    height: auto;
+    border: 1px solid #000;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.close-link-wrapper {
+    clear: both;
+    text-align: left;
+    margin-top: 15px;
+}
+
+#close-btn {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer; 
+}
+
+.quiz-container {
+    margin-top: 30px;
+    padding: 15px;
+    border-top: 2px dashed #ccc;
+}
+
+#quiz-answer {
+    padding: 5px;
+    font-size: 1em;
+    width: 200px;
+    margin-right: 10px;
+}
+
+#quiz-submit-btn {
+    padding: 5px 15px;
+    font-size: 1em;
+    cursor: pointer;
+}
