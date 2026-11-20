@@ -18,9 +18,9 @@
     <li><a href="Figma03.html">Задание 16.</a> Перо и маркер</li>
     <li><a href="Figma04.html">Задание 17.</a> Типографика</li>
     <li><a href="Figma05.html">Задание 18.</a> Фреймы</li>
-    <li><a href="Start.html">Задание 19.</a> Фреймы</li>
-    <li><a href="Vibor.html">Задание 20.</a> Фреймы</li>
-    <li><a href="Summa.html">Задание 21.</a> Фреймы</li>
-    <li><a href="Radio.html">Задание 22.</a> Фреймы</li>
-    <li><a href="karta.html">Задание 23.</a> Фреймы</li>
+    <li><a href="Start.html">Задание 19.</a> Ввод и вывод</li>
+    <li><a href="Vibor.html">Задание 20.</a> Кнопка</li>
+    <li><a href="Summa.html">Задание 21.</a> Вычисление суммы</li>
+    <li><a href="Radio.html">Задание 22.</a> Ракдиостанция</li>
+    <li><a href="karta.html">Задание 23.</a> Карты</li>
 </ul>
