@@ -16,7 +16,10 @@
         <li><a href="text.html">Задание 7.</a> Оформление текста CSS</li>
         <li><a href="cats.html">Задание 8.</a> Котэ</li>
         <li><a href="img.html">Задание 9.</a> Музыканты</li>
-        <li><a href="media.html">Задание 10.</a> Мультимедиа</li>
+        <li><a href="table.htm">Задание 10.</a> Цезарь</li>
+        <li><a href="media.htm">Задание 11.</a> Медиа</li>
+        <li><a href="baikal.htm">Задание 12.</a> Байкал</li>
+        <li><a href="valaam.htm">Задание 13.</a> Валаам</li>
         <li><a href="index.html">Задание 27.</a> Яндекс Карты</li>
     </ul>
 </body>
