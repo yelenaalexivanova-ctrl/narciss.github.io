@@ -20,7 +20,6 @@
         <li><a href="media.htm">Задание 11.</a> Медиа</li>
         <li><a href="baikal.htm">Задание 12.</a> Байкал</li>
         <li><a href="valaam.htm">Задание 13.</a> Валаам</li>
-        <li><a href="index.html">Задание 27.</a> Яндекс Карты</li>
     </ul>
 </body>
 </html>
